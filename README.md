@@ -11,11 +11,11 @@ The emulator received a .emu file as input in the following format:
 
 Your system will be fed input in the following format
 
-00000000 E3A00001
-00000004 E2800001
-00000008 00000042
-0000000C 00000000
-00000010 EAFFFFFB
+     00000000 E3A00001
+     00000004 E2800001
+     00000008 00000042
+     0000000C 00000000
+     00000010 EAFFFFFB
 
 which translates to:
      
